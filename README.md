@@ -35,6 +35,10 @@ Currently, I am pursuing a diploma as a **Technicien Spécialisé en Développem
 
 
 ---
+### Certificates
+[![CSS](https://img.shields.io/badge/CSS-blue)](https://www.hackerrank.com/certificates/833268a8328f)
+[![JavaScript](https://img.shields.io/badge/JS-yellow)](https://www.hackerrank.com/certificates/0be76c1c169c)
+[![Python](https://img.shields.io/badge/Python-yellow)](https://www.hackerrank.com/certificates/28d03dd58776)
 
 
 
